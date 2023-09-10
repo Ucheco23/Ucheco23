@@ -4,4 +4,3 @@ Skills:
 - Data Visualisation: I'm a bit skilled in creating visually appealing and informative dashboards using Power BI just for now and working on other visualisation tools. 
 - Statistical Analysis: Experienced in applying statistical models, hypothesis testing, and regression analysis to identify patterns, trends, and correlations within datasets.
 - SQL: I'm getting more Proficient in writing complex SQL queries to retrieve, filter, and manipulate data from databases.
-- I'm easily accessed with https://www.linkedin.com/in/ibe-uchenna-anthony-3337031ba . 
